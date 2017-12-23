@@ -55,3 +55,8 @@ border-radius : 20% ;
 border : 1px solid black ;
 margin : 10px 0px 0px 10px ;
 }
+
+h2{
+font-family: 'Lato', sans-serif;
+margin : 0px 0px 0px 20px;
+}
