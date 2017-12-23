@@ -39,14 +39,13 @@ arrCard[11] = 'image6.jpg';
 var arrCard2 = shuffle(arrCard);
 console.log(arrCard2);
 
-// Quand on choisit les cartes , choisir deux cartes si les deyx cartes sont semblables
-// Quand on click sur les cartes  fait cette fonction
 
 
 var numberclick = 0;
 var first;
 var second;
 var find = 0;
+
 
     function Choosing(card){
         if (numberclick == 0){
@@ -92,7 +91,6 @@ var find = 0;
 
 
      }
-
 
 
 
