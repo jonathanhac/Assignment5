@@ -60,3 +60,10 @@ h2{
 font-family: 'Lato', sans-serif;
 margin : 0px 0px 0px 20px;
 }
+
+@media (max-width:900px) {
+#cadre,#header_1,#Button_1,#row_1,#row_2,#row_3{
+    width:60%;/*The width is 100%, when the viewport is 800px or smaller*/
+  }
+}
+
