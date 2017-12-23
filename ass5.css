@@ -1,0 +1,58 @@
+#header_1{
+height : 150px ;
+width  : 1000px ;
+border : 1px solid black ;
+Background-color : greenyellow ;
+margin : 5px 0px 0px 200px ;
+}
+
+
+#Button_1{
+height :  65px;
+width :  150px;
+margin : 80px 0px 0px 400px ;
+Background-color : red;
+border-radius : 50% ;
+
+}
+
+body{
+background-image: url("bg.jpg");
+}
+
+
+
+
+.picture1,.picture2 ,.picture3 ,.picture4{
+height:115px;
+width : 90px;
+border-radius : 10% ;
+display : inline-block ;
+margin : 10px 0px 0px 10px ;
+
+
+}
+
+#row_1,#row_2, #row_3 , {
+height : 150px;
+width : 600 px;
+margin : 10px 0px 0px 10px;
+}
+
+
+#cadre{
+margin : 10px 0px 0px 430px ;
+height:600px;
+width:400px;
+}
+
+
+
+img{
+height:110px;
+width : 90px;
+border-radius : 10% ;
+border : 1px solid black ;
+margin : 10px 0px 0px 10px ;
+
+}
