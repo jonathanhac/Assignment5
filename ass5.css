@@ -1,18 +1,13 @@
 #header_1{
-height : 150px ;
-width  : 1000px ;
-border : 1px solid black ;
 Background-color : greenyellow ;
-margin : 5px 0px 0px 200px ;
-
+height:200px;
 }
 
 
 #Button_1{
 height :  65px;
 width :  150px;
-margin : 0px 0px 0px 400px ;
-Background-color : red;
+Background-color :red;
 border-radius : 50% ;
 
 }
@@ -23,27 +18,22 @@ background-image: url("bg.jpg");
 
 
 
-
 .picture1,.picture2 ,.picture3 ,.picture4{
 height:115px;
 width : 90px;
 border-radius : 10% ;
 display : inline-block ;
-margin : 10px 0px 0px 10px ;
-
-
+margin : 10px 0px 0px 0px ;
 }
 
-#row_1,#row_2, #row_3 , {
-height : 150px;
-width : 601 px;
-margin : 10px 0px 0px 10px;
+#row_1,#row_2, #row_3{
+height : 120px;
+width : 450px;
 }
 
 
 #cadre{
-margin : 10px 0px 0px 430px ;
-
+margin : 10px 0px 0px 500px ;
 }
 
 
@@ -53,17 +43,12 @@ height:115px;
 width : 90px;
 border-radius : 20% ;
 border : 1px solid black ;
-margin : 10px 0px 0px 10px ;
 }
+
 
 h2{
-font-family: 'Lato', sans-serif;
-margin : 0px 0px 0px 20px;
-}
+font-family: 'Times New Roman', sans-serif;
+margin : 0px 0px 0px 0px;
 
-@media (max-width:900px) {
-#cadre,#header_1,#Button_1,#row_1,#row_2,#row_3{
-    width:60%;/*The width is 100%, when the viewport is 800px or smaller*/
-  }
 }
 
