@@ -1,0 +1,67 @@
+
+#title{
+text-align:center;
+color:blue;
+font-family: 'Joti One', cursive;
+}
+
+#Button_1{
+height :65px;
+width :150px;
+border-radius : 40% ;
+background-color: blue;
+border:blue;
+}
+
+#body_1{
+background-repeat :no-repeat;
+}
+
+
+
+.picture1,.picture2 ,.picture3 ,.picture4{
+height:140px;
+width : 100px;
+display : inline-block ;
+margin : 15px 0px 0px 0px ;
+}
+
+#row_1,#row_2, #row_3{
+height : 130px;
+width : 450px;
+margin:auto;
+}
+
+
+#cadre{
+margin : 10px 0px 0px 500px ;
+}
+
+
+
+img{
+height:120px;
+width : 120px;;
+border : 1px solid black ;
+}
+
+
+h2{
+margin : 0px 0px 0px 0px;
+text-align:center;
+}
+
+
+#win_1{
+display:none;
+height:100px;
+font-family: 'Supermercado One', cursive;
+opacity:0,5;
+
+}
+
+.win{
+background-color:lightgray;
+margin:auto;
+
+}
